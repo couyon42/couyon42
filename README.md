@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @couyon42
 - 👀 I’m interested in poitics, MMT, self-determination, freedom, and NFL
 - 🌱 I’m currently learning SQL, Tableau
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on income inequality, racial wealth gap, green new deal
 - 📫 How to reach me ...
 
 <!---
