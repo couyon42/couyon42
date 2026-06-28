@@ -19,7 +19,7 @@ Google Data Analytics capstone project analyzing Bellabeat fitness tracker data 
 ## Currently Learning
 
 - Advanced SQL (window functions, query optimization)
-- PowserBI dashboard design
+- PowerBI dashboard design
 - Python for data analysis
 
 ## Connect
